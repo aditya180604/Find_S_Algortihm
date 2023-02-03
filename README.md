@@ -1,0 +1,1 @@
+# Find_S_Algortihm
